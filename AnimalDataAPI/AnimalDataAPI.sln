@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalDataAPI", "AnimalDataAPI\AnimalDataAPI.csproj", "{95F45B0F-6223-40D2-80C0-19852FE0E237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalDataApiTests", "AnimalDataApiTests\AnimalDataApiTests.csproj", "{CE765D5E-4EBB-428A-A5AE-57A485A7B82A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F45B0F-6223-40D2-80C0-19852FE0E237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F45B0F-6223-40D2-80C0-19852FE0E237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F45B0F-6223-40D2-80C0-19852FE0E237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F45B0F-6223-40D2-80C0-19852FE0E237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE765D5E-4EBB-428A-A5AE-57A485A7B82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE765D5E-4EBB-428A-A5AE-57A485A7B82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE765D5E-4EBB-428A-A5AE-57A485A7B82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE765D5E-4EBB-428A-A5AE-57A485A7B82A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
